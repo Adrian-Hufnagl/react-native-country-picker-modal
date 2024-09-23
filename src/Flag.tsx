@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
     borderWidth: 1 / PixelRatio.get(),
     borderColor: 'transparent',
     backgroundColor: 'transparent',
-    color: ‚#ffffff‘,
+    color: '#ffffff',
   },
   imageFlag: {
     resizeMode: 'contain',
